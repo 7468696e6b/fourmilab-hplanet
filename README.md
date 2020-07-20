@@ -1,6 +1,6 @@
 # Home Planet
 
-Program by John Walker (https://github.com/Fourmilab), designed to run on Windows 95/98/Me and NT 4.0/2000/XP (https://www.fourmilab.ch/homeplanet/) and designed to be compiled with Visual C 7.0 / Visual Studio .NET. Last edit: September 16, 2006.
+Program by John Walker (https://github.com/Fourmilab), designed to run on Windows 95/98/Me and NT 4.0/2000/XP (https://www.fourmilab.ch/homeplanet/) and designed to be compiled with Visual C 7.0 / Visual Studio .NET. Last edit: September 16, 2006. The program includes many features including an orrery display, a sky map, and even a cuckoo clock.
 
 > Release 3.3a of Home Planet, a comprehensive astronomy / space / satellite-tracking package for Microsoft Windows 95/98/Me and Windows NT 4.0/2000/XP and above, is now available; see details at the end on how to download and install the software. Release 3.3a of Home Planet is a native 32-bit Windows application which cannot be used on Windows 3.1; if you have such a system, download Home Planet Release 2, which remains available.
 > 
